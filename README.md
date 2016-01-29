@@ -43,7 +43,7 @@ Except for this, there're some [other mobile security wikis](https://github.com/
 * [Whitepapers](https://github.com/secmobi/wiki.secmobi.com/blob/master/pages/publications/Whitepapers.md)
 
 #### Progresses
-* [Blogs](https://github.com/secmobi/wiki.secmobi.com/blob/master/progresses/news/Blogs.md)
+* [Blogs](https://github.com/ydc1992/wiki.secmobi.com/blob/master/pages/progresses/Blogs.md)
 * [Academic Conferences](https://github.com/secmobi/wiki.secmobi.com/blob/master/pages/progresses/Academic-Conferences.md)
 * [Industrial Conferences](https://github.com/secmobi/wiki.secmobi.com/blob/master/pages/progresses/Industrial-Conferences.md)
 
